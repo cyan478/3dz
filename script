@@ -1,0 +1,58 @@
+sphere
+-250 225 100 100
+sphere
+-125 225 100 100
+sphere
+0 225 100 100
+sphere
+125 225 100 100
+sphere
+250 225 100 100
+
+sphere
+-250 75 100 100
+sphere
+-125 75 100 100
+sphere
+0 75 100 100
+sphere
+125 75 100 100
+sphere
+250 75 100 100
+
+sphere
+-250 -75 100 100
+sphere
+-125 -75 100 100
+sphere
+0 -75 100 100
+sphere
+125 -75 100 100
+sphere
+250 -75 100 100
+
+sphere
+-250 -225 100 100
+sphere
+-125 -225 100 100
+sphere
+0 -225 100 100
+sphere
+125 -225 100 100
+sphere
+250 -225 100 100
+
+sphere
+0 0 0 250
+sphere
+-250 0 0 250
+sphere
+250 0 0 250
+
+ident
+move
+250 250 0
+apply
+display
+save
+pic.png
